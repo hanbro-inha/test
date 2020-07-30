@@ -11,5 +11,5 @@
 ## Getting Started
 
 '''
-echo "Eun Seong"
+echo Eun Seong
 '''
