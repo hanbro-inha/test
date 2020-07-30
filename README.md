@@ -6,6 +6,5 @@
 ## Getting Started
 
 ```
-echo "Seong Seong"
-
+nc 165.246.39.210 2000
 ```
