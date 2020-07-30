@@ -5,6 +5,7 @@
 +-+-+-+ +-+-+-+-+-+
 ## Getting Started
 
-'''
+```
 echo "Seong Seong"
-'''
+
+```
